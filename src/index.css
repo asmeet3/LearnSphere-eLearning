@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+  margin: 0;
+  font-family: 'Montserrat';
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.MuiContainer-root {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.MuiAppBar-root {
+  z-index: 1300; /* Ensure AppBar is above other content */
+}
