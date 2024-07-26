@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c851902.css",
+    "main.js": "/static/js/main.87566cd3.js",
+    "static/js/453.a84252f9.chunk.js": "/static/js/453.a84252f9.chunk.js",
+    "static/media/marketing-course.JPG": "/static/media/marketing-course.728bee25f48f742d6b97.JPG",
+    "static/media/cybersecurity-course.JPG": "/static/media/cybersecurity-course.6024b6d4ea7ce191cb64.JPG",
+    "static/media/aws-course.JPG": "/static/media/aws-course.9d07bbee0e37eeb8c3be.JPG",
+    "static/media/python-course.JPG": "/static/media/python-course.f7c5653e2578c8dac5a2.JPG",
+    "static/media/ml-course.JPG": "/static/media/ml-course.a27e7da4f39b49a851a7.JPG",
+    "static/media/js-course.JPG": "/static/media/js-course.1c1fc3920585c66aee7a.JPG",
+    "static/media/react-course.PNG": "/static/media/react-course.928f8ea724cde2e5f268.PNG",
+    "static/media/tableau-course.WEBP": "/static/media/tableau-course.2e520ca74c9bc292dd14.WEBP",
+    "static/media/project-course.WEBP": "/static/media/project-course.c626ff84d3f00092c241.WEBP",
+    "index.html": "/index.html",
+    "main.1c851902.css.map": "/static/css/main.1c851902.css.map",
+    "main.87566cd3.js.map": "/static/js/main.87566cd3.js.map",
+    "453.a84252f9.chunk.js.map": "/static/js/453.a84252f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c851902.css",
+    "static/js/main.87566cd3.js"
+  ]
+}
